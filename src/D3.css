@@ -1,0 +1,19 @@
+
+text {
+  font: bold 48px monospace;
+  transition: fill-opacity ease 750;
+}
+
+.enter,
+.entered {
+  fill: green;
+}
+
+.entering,
+.update {
+  fill: #333;
+}
+
+.exit {
+  fill: brown;
+}
